@@ -1,4 +1,4 @@
-Alimento,CostoBogota,CostoMedellin ,CostoBarranquilla,CostoCali,promedio,varianza,kcal/g,carb/g,proteina/g,grasa/g
+Alimento,CostoBogota/g,CostoMedellin/g ,CostoBarranquilla/g,CostoCali/g,promedio,varianza,kcal/g,carb/g,proteina/g,grasa/g
 Cebolla Cabezona,"1,7","1,9155","2,0555","1,7635","1,858625","0,02540172917","0,4","0,093","0,011","0,001"
 Tomate,"2,745","3,1025","2,748","3,2515","2,962","0,06547841667","0,18","0,027","0,009","0,002"
 Frijol,"8,1373","9,5155","7,2675","6,1063","7,75665","2,06712353","3,37","0,063","0,021","0,002"
